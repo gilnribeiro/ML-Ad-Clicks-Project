@@ -1,0 +1,4 @@
+,classifier,classifier__max_depth,classifier__min_samples_leaf,classifier__min_samples_split,classifier__n_estimators,sampling,scaler,transformer
+rfc_opt_model,"RandomForestClassifier(max_depth=39, min_samples_leaf=29, min_samples_split=15,
+                       n_estimators=206, random_state=42)",39,29,15,206,RandomUnderSampler(random_state=42),StandardScaler(),"TargetEncoder(cols=['site_id', 'site_domain', 'app_id', 'device_model', 'C14',
+                    'C17', 'C20'])"
