@@ -1,3 +1,0 @@
-,classifier,classifier__n_neighbors,classifier__weights,sampling,scaler,transformer
-knn_model,KNeighborsClassifier(n_neighbors=9),9,uniform,RandomUnderSampler(random_state=42),StandardScaler(),"TargetEncoder(cols=['site_id', 'site_domain', 'app_id', 'device_model', 'C14',
-                    'C17', 'C20'])"
