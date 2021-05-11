@@ -1,3 +1,0 @@
-,classifier,sampling,scaler,transformer
-rfc_simple_model,RandomForestClassifier(random_state=42),RandomUnderSampler(random_state=42),StandardScaler(),"TargetEncoder(cols=['site_id', 'site_domain', 'app_id', 'device_model', 'C14',
-                    'C17', 'C20'])"

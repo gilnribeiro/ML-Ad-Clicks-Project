@@ -1,0 +1,3 @@
+.vscode/
+.Final_project_EDA.ipynb
+.Ad_Clicks_project.ipynb
