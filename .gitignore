@@ -6,9 +6,9 @@ __pycache__/
 # Others
 catboost_info/
 .vscode/
-.ipynb_checkpoints/
 final_Ad_Clicks_project.zip
 Test Models.ipynb
+Ad_Clicks_project.ipynb
 
 
 # C extensions
